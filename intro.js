@@ -12,7 +12,18 @@
 
 // var bookPages = ['hablu','bolod','choddogusti','peracitamol'];
 // console.log(bookPages.indexOf("peracitamol"))
-var array = ['asd','sadj','sdsa','sadbbu'];
-array.push('adsdgh', "fh");
-array.pop();
-console.log(array);
+// var array = ['asd','sadj','sdsa','sadbbu'];
+// array.push('adsdgh', "fh");
+// array.pop();
+// console.log(array);
+// console.log(5 != 5);
+var bottleColor =" yellow";
+var quantity = 1;
+var isFull = false;
+
+var items= ['bottle',"mug", "paper","pen"];
+
+console.log(items.indexOf("paper"));
+console.log(items.length);
+
+
